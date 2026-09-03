@@ -11,7 +11,7 @@
 ### 🛡️ SilverFox Detector（银狐特攻）
 
 银狐木马专杀工具，Go + PowerShell 双层架构，已通过 360 软件开放平台过白。
-👉 [gitee.com/mowenqwq/silver-fox_-detector_fixed](https://gitee.com/mowenqwq/silver-fox_-detector_fixed)
+👉 GitHub：[SilverFox-Detector](https://github.com/mowenQWQ/SilverFox-Detector) ｜ Gitee：[silver-fox_-detector_fixed](https://gitee.com/mowenqwq/silver-fox_-detector_fixed)
 
 ### 🧰 AI Agent Skill 经验库（六件套）
 
@@ -39,7 +39,7 @@
 ### 🛡️ SilverFox Detector
 
 A remover for the "SilverFox" trojan family. Go + PowerShell dual-layer architecture, whitelisted on the 360 Software Open Platform.
-👉 [gitee.com/mowenqwq/silver-fox_-detector_fixed](https://gitee.com/mowenqwq/silver-fox_-detector_fixed)
+👉 GitHub: [SilverFox-Detector](https://github.com/mowenQWQ/SilverFox-Detector) ｜ Gitee: [silver-fox_-detector_fixed](https://gitee.com/mowenqwq/silver-fox_-detector_fixed)
 
 ### 🧰 AI Agent Skill Libraries (×6)
 
