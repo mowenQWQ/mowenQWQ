@@ -28,6 +28,10 @@
 
 > 以上六库同步开源于 [Gitee](https://gitee.com/mowenqwq)，README 均为中英双语。
 
+### 🎮 Minecraft 模组
+
+- **[Bountiful-Fares-Fixed](https://github.com/mowenQWQ/Bountiful-Fares-Fixed)** — Bountiful Fares 1.20.1 狼乞食 NPE 崩溃修复构建（手动构建 / Fabric，Sinytra Connector 可跑 Forge）｜ Gitee：[Bountiful-Fares-Fixed](https://gitee.com/mowenqwq/Bountiful-Fares-Fixed)
+
 ### 🌐 个人项目
 
 - **[mowen.vip](https://mowen.vip)** — Oreacle · 我的世界赛博算卦所（nginx + 零依赖 Node.js，源码开源）
@@ -55,6 +59,10 @@ All distilled from real projects — building the security tool itself, authoriz
 | [grounded-summaries-skill](https://github.com/mowenQWQ/grounded-summaries-skill) | Stop AI agents from fabricating summaries (born from a real incident) |
 
 > All six are mirrored on [Gitee](https://gitee.com/mowenqwq) with bilingual (Chinese-first) READMEs.
+
+### 🎮 Minecraft Mods
+
+- **[Bountiful-Fares-Fixed](https://github.com/mowenQWQ/Bountiful-Fares-Fixed)** — Fixed build of Bountiful Fares 1.20.1 (wolf begging NPE crash; hand-built / Fabric, Sinytra Connector for Forge) | Gitee: [mirror](https://gitee.com/mowenqwq/Bountiful-Fares-Fixed)
 
 ### 🌐 Personal Project
 
