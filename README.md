@@ -31,6 +31,8 @@
 ### 🎮 Minecraft 模组
 
 - **[Bountiful-Fares-Fixed](https://github.com/mowenQWQ/Bountiful-Fares-Fixed)** — Bountiful Fares 1.20.1 狼乞食 NPE 崩溃修复构建（手动构建 / Fabric，Sinytra Connector 可跑 Forge）｜ Gitee：[Bountiful-Fares-Fixed](https://gitee.com/mowenqwq/Bountiful-Fares-Fixed)
+- **[Weather-Effect-](https://github.com/mowenQWQ/Weather-Effect-)** — 天气药水模组：晴天增益、雨天与雷暴触发随机正负效果（雷暴可一次叠加多个），无需合成、自动运行 ｜ Gitee：[weather-effect](https://gitee.com/mowenqwq/weather-effect)
+- **[tp_permission_mod](https://github.com/mowenQWQ/tp_permission_mod)** — 传送指令权限管理：管理员一键开关全服或指定玩家的 /tp，配置按世界独立保存，单机联机通用 ｜ Gitee：[tp_permission_mod](https://gitee.com/mowenqwq/tp_permission_mod)
 
 ### 🌐 个人项目
 
@@ -63,12 +65,13 @@ All distilled from real projects — building the security tool itself, authoriz
 ### 🎮 Minecraft Mods
 
 - **[Bountiful-Fares-Fixed](https://github.com/mowenQWQ/Bountiful-Fares-Fixed)** — Fixed build of Bountiful Fares 1.20.1 (wolf begging NPE crash; hand-built / Fabric, Sinytra Connector for Forge) | Gitee: [mirror](https://gitee.com/mowenqwq/Bountiful-Fares-Fixed)
+- **[Weather-Effect-](https://github.com/mowenQWQ/Weather-Effect-)** — Weather potion mod: sunny buffs, rain and thunderstorms trigger random positive or negative effects (thunderstorms can stack several at once); no crafting, fully automatic | Gitee: [weather-effect](https://gitee.com/mowenqwq/weather-effect)
+- **[tp_permission_mod](https://github.com/mowenQWQ/tp_permission_mod)** — /tp permission manager: admins can toggle teleport for the whole server or specific players; per-world config, works in both singleplayer and servers | Gitee: [tp_permission_mod](https://gitee.com/mowenqwq/tp_permission_mod)
 
 ### 🌐 Personal Project
 
 - **[mowen.vip](https://mowen.vip)** — Oreacle, a Minecraft-themed divination site (nginx + zero-dependency Node.js, open source)
 
----
 ---
 
 ## 🤖 AI 使用声明 / AI Usage Disclosure
