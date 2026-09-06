@@ -13,7 +13,7 @@
 银狐木马专杀工具，Go + PowerShell 双层架构，已通过 360 软件开放平台过白。
 👉 GitHub：[SilverFox-Detector](https://github.com/mowenQWQ/SilverFox-Detector) ｜ Gitee：[silver-fox_-detector_fixed](https://gitee.com/mowenqwq/silver-fox_-detector_fixed)
 
-### 🧰 AI Agent Skill 经验库（十四件套）
+### 🧰 AI Agent Skill 经验库（十五件套）
 
 全部来自真实项目实战——银狐工具开发、网站安全测试、agent 无人值守运维、同人写作、中文写作、AI 声明规范与 MC 服务器安全。每条经验都带事故现场与修复动作，不是理论清单。
 
@@ -33,8 +33,9 @@
 | [mc-server-plugin-security](https://github.com/mowenQWQ/mc-server-plugin-security) | 我的世界服务器插件安全经验库：AuthMe 0day、登录绕过、session 劫持、ForceOp、jar 静态检查与版本选型 |
 | [article-writing](https://github.com/mowenQWQ/article-writing) | 中文文章/软文/长文写作经验库：读者意识、事实先行、对比论证、深度优先与发布前自查清单 |
 | [ai-usage-notice](https://github.com/mowenQWQ/ai-usage-notice) | 为 AI 直接输出的成品默认添加 AI 使用说明（项目 README 开头 + 文章文末），法律依据与例外边界完整 |
+| [agent-self-rollback](https://github.com/mowenQWQ/agent-self-rollback) | 为 AI agent 建立自身误操作回滚机制：三层防线（自律规则+时间戳快照+双兜底恢复）+ 可移植 rollback.ps1（snapshot/list/restore/verify） |
 
-> 以上十四库同步开源于 [Gitee](https://gitee.com/mowenqwq)，README 均为中英双语。
+> 以上十五库同步开源于 [Gitee](https://gitee.com/mowenqwq)，README 均为中英双语。
 
 ### 🎮 Minecraft 模组
 
@@ -55,7 +56,7 @@
 A remover for the "SilverFox" trojan family. Go + PowerShell dual-layer architecture, whitelisted on the 360 Software Open Platform.
 👉 GitHub: [SilverFox-Detector](https://github.com/mowenQWQ/SilverFox-Detector) ｜ Gitee: [silver-fox_-detector_fixed](https://gitee.com/mowenqwq/silver-fox_-detector_fixed)
 
-### 🧰 AI Agent Skill Libraries (×14)
+### 🧰 AI Agent Skill Libraries (×15)
 
 All distilled from real projects — building the security tool itself, authorized web security testing, unattended agent operations, fanfiction and Chinese writing, AI-usage-notice compliance, and MC server plugin security. Every entry carries the incident, the wrong guesses, and the fix. Not theory checklists.
 
@@ -75,8 +76,9 @@ All distilled from real projects — building the security tool itself, authoriz
 | [mc-server-plugin-security](https://github.com/mowenQWQ/mc-server-plugin-security) | Minecraft server plugin security vault: AuthMe 0-days, login bypasses, session takeover, ForceOp, jar static checks |
 | [article-writing](https://github.com/mowenQWQ/article-writing) | Chinese article-writing vault: reader-first, facts first, contrast argumentation, depth over length, pre-publish checklist |
 | [ai-usage-notice](https://github.com/mowenQWQ/ai-usage-notice) | Mandate an AI usage notice on AI-produced deliverables — project README or article end, legally grounded, with exceptions |
+| [agent-self-rollback](https://github.com/mowenQWQ/agent-self-rollback) | Self-rollback mechanism for AI agents: three layers (self-discipline rules + timestamped snapshots + double-buffered restore) + portable rollback.ps1 (snapshot/list/restore/verify) |
 
-> All fourteen are mirrored on [Gitee](https://gitee.com/mowenqwq) with bilingual (Chinese-first) READMEs.
+> All fifteen are mirrored on [Gitee](https://gitee.com/mowenqwq) with bilingual (Chinese-first) READMEs.
 
 ### 🎮 Minecraft Mods
 
