@@ -13,9 +13,9 @@
 银狐木马专杀工具，Go + PowerShell 双层架构，已通过 360 软件开放平台过白。
 👉 GitHub：[SilverFox-Detector](https://github.com/mowenQWQ/SilverFox-Detector) ｜ Gitee：[silver-fox_-detector_fixed](https://gitee.com/mowenqwq/silver-fox_-detector_fixed)
 
-### 🧰 AI Agent Skill 经验库（十一件套）
+### 🧰 AI Agent Skill 经验库（十四件套）
 
-全部来自真实项目实战——银狐工具开发、网站安全测试、agent 无人值守运维、同人写作与开源发布流程。每条经验都带事故现场与修复动作，不是理论清单。
+全部来自真实项目实战——银狐工具开发、网站安全测试、agent 无人值守运维、同人写作、中文写作、AI 声明规范与 MC 服务器安全。每条经验都带事故现场与修复动作，不是理论清单。
 
 | 仓库 | 一句话 |
 |------|--------|
@@ -30,8 +30,11 @@
 | [grounded-summaries-skill](https://github.com/mowenQWQ/grounded-summaries-skill) | 防止 AI 在总结类任务中编造内容（源自一次真实的线上幻觉事故） |
 | [fanfic-game-lore-writer](https://github.com/mowenQWQ/fanfic-game-lore-writer) | 基于游戏内文本素材的同人写作方法论：原作考据、角色反推、道具碎片化嵌入、信息差叙事 |
 | [skill-open-source-publish](https://github.com/mowenQWQ/skill-open-source-publish) | 把任务成果/事故复盘做成可开源 skill 并发布双平台：脱敏、双语、建仓、推送、验证全流程 |
+| [mc-server-plugin-security](https://github.com/mowenQWQ/mc-server-plugin-security) | 我的世界服务器插件安全经验库：AuthMe 0day、登录绕过、session 劫持、ForceOp、jar 静态检查与版本选型 |
+| [article-writing](https://github.com/mowenQWQ/article-writing) | 中文文章/软文/长文写作经验库：读者意识、事实先行、对比论证、深度优先与发布前自查清单 |
+| [ai-usage-notice](https://github.com/mowenQWQ/ai-usage-notice) | 为 AI 直接输出的成品默认添加 AI 使用说明（项目 README 开头 + 文章文末），法律依据与例外边界完整 |
 
-> 以上十一库同步开源于 [Gitee](https://gitee.com/mowenqwq)，README 均为中英双语。
+> 以上十四库同步开源于 [Gitee](https://gitee.com/mowenqwq)，README 均为中英双语。
 
 ### 🎮 Minecraft 模组
 
@@ -52,9 +55,9 @@
 A remover for the "SilverFox" trojan family. Go + PowerShell dual-layer architecture, whitelisted on the 360 Software Open Platform.
 👉 GitHub: [SilverFox-Detector](https://github.com/mowenQWQ/SilverFox-Detector) ｜ Gitee: [silver-fox_-detector_fixed](https://gitee.com/mowenqwq/silver-fox_-detector_fixed)
 
-### 🧰 AI Agent Skill Libraries (×11)
+### 🧰 AI Agent Skill Libraries (×14)
 
-All distilled from real projects — building the security tool itself, authorized web security testing, unattended agent operations, fanfiction writing, and the open-source publishing workflow. Every entry carries the incident, the wrong guesses, and the fix. Not theory checklists.
+All distilled from real projects — building the security tool itself, authorized web security testing, unattended agent operations, fanfiction and Chinese writing, AI-usage-notice compliance, and MC server plugin security. Every entry carries the incident, the wrong guesses, and the fix. Not theory checklists.
 
 | Repo | What it does |
 |------|--------------|
@@ -69,8 +72,11 @@ All distilled from real projects — building the security tool itself, authoriz
 | [grounded-summaries-skill](https://github.com/mowenQWQ/grounded-summaries-skill) | Stop AI agents from fabricating summaries (born from a real incident) |
 | [fanfic-game-lore-writer](https://github.com/mowenQWQ/fanfic-game-lore-writer) | Fanfiction-writing methodology built on in-game text artifacts: canon research, character building, info-gap narration |
 | [skill-open-source-publish](https://github.com/mowenQWQ/skill-open-source-publish) | Turn task outcomes & postmortems into open-source skills: desensitization, bilingual docs, dual-platform publishing |
+| [mc-server-plugin-security](https://github.com/mowenQWQ/mc-server-plugin-security) | Minecraft server plugin security vault: AuthMe 0-days, login bypasses, session takeover, ForceOp, jar static checks |
+| [article-writing](https://github.com/mowenQWQ/article-writing) | Chinese article-writing vault: reader-first, facts first, contrast argumentation, depth over length, pre-publish checklist |
+| [ai-usage-notice](https://github.com/mowenQWQ/ai-usage-notice) | Mandate an AI usage notice on AI-produced deliverables — project README or article end, legally grounded, with exceptions |
 
-> All eleven are mirrored on [Gitee](https://gitee.com/mowenqwq) with bilingual (Chinese-first) READMEs.
+> All fourteen are mirrored on [Gitee](https://gitee.com/mowenqwq) with bilingual (Chinese-first) READMEs.
 
 ### 🎮 Minecraft Mods
 
