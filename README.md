@@ -13,20 +13,25 @@
 银狐木马专杀工具，Go + PowerShell 双层架构，已通过 360 软件开放平台过白。
 👉 GitHub：[SilverFox-Detector](https://github.com/mowenQWQ/SilverFox-Detector) ｜ Gitee：[silver-fox_-detector_fixed](https://gitee.com/mowenqwq/silver-fox_-detector_fixed)
 
-### 🧰 AI Agent Skill 经验库（六件套）
+### 🧰 AI Agent Skill 经验库（十一件套）
 
-全部来自真实项目实战——银狐工具开发、网站安全测试、agent 无人值守运维。每条经验都带事故现场与修复动作，不是理论清单。
+全部来自真实项目实战——银狐工具开发、网站安全测试、agent 无人值守运维、同人写作与开源发布流程。每条经验都带事故现场与修复动作，不是理论清单。
 
 | 仓库 | 一句话 |
 |------|--------|
 | [win-dev-pitfalls](https://github.com/mowenQWQ/win-dev-pitfalls) | Windows 开发踩坑全量主线：bat/cmd、PowerShell 5.1/7、Win32 GUI、Flutter 桌面端（41 章） |
 | [bat-ps1-dev](https://github.com/mowenQWQ/bat-ps1-dev) | bat / PowerShell 脚本开发专项经验库（39 章） |
 | [Web-Security-Test-Rules](https://github.com/mowenQWQ/Web-Security-Test-Rules) | 已授权网站安全测试规则库：先授权、后测试、最小影响、规范留痕 |
+| [security-testing](https://github.com/mowenQWQ/security-testing) | 已授权网站的系统性渗透测试手册：漏洞发现、提权尝试、隐蔽纪律、报告生成 |
+| [web-api-security-testing](https://github.com/mowenQWQ/web-api-security-testing) | Web API 安全测试轮次化流程：测试前 3 件事、测试中手段手册、测试后 5 件事闭环 |
+| [site-health-diagnosis](https://github.com/mowenQWQ/site-health-diagnosis) | 网站健康分层体检法：区分 CDN/源站层故障、瞬时/持续问题，输出可转给运维的证据链 |
 | [unattended-task-pitfalls](https://github.com/mowenQWQ/unattended-task-pitfalls) | 无人值守自动任务加固：操作纪律会失效，只有代码能兜底 |
 | [agent-mistake-patterns](https://github.com/mowenQWQ/agent-mistake-patterns) | AI 智能体犯错模式库：翻车主力不是能力问题，是"库里有的知识没用上" |
 | [grounded-summaries-skill](https://github.com/mowenQWQ/grounded-summaries-skill) | 防止 AI 在总结类任务中编造内容（源自一次真实的线上幻觉事故） |
+| [fanfic-game-lore-writer](https://github.com/mowenQWQ/fanfic-game-lore-writer) | 基于游戏内文本素材的同人写作方法论：原作考据、角色反推、道具碎片化嵌入、信息差叙事 |
+| [skill-open-source-publish](https://github.com/mowenQWQ/skill-open-source-publish) | 把任务成果/事故复盘做成可开源 skill 并发布双平台：脱敏、双语、建仓、推送、验证全流程 |
 
-> 以上六库同步开源于 [Gitee](https://gitee.com/mowenqwq)，README 均为中英双语。
+> 以上十一库同步开源于 [Gitee](https://gitee.com/mowenqwq)，README 均为中英双语。
 
 ### 🎮 Minecraft 模组
 
@@ -47,20 +52,25 @@
 A remover for the "SilverFox" trojan family. Go + PowerShell dual-layer architecture, whitelisted on the 360 Software Open Platform.
 👉 GitHub: [SilverFox-Detector](https://github.com/mowenQWQ/SilverFox-Detector) ｜ Gitee: [silver-fox_-detector_fixed](https://gitee.com/mowenqwq/silver-fox_-detector_fixed)
 
-### 🧰 AI Agent Skill Libraries (×6)
+### 🧰 AI Agent Skill Libraries (×11)
 
-All distilled from real projects — building the security tool itself, authorized web security testing, and unattended agent operations. Every entry carries the incident, the wrong guesses, and the fix. Not theory checklists.
+All distilled from real projects — building the security tool itself, authorized web security testing, unattended agent operations, fanfiction writing, and the open-source publishing workflow. Every entry carries the incident, the wrong guesses, and the fix. Not theory checklists.
 
 | Repo | What it does |
 |------|--------------|
 | [win-dev-pitfalls](https://github.com/mowenQWQ/win-dev-pitfalls) | Windows dev pitfalls, full line: bat/cmd, PowerShell 5.1/7, Win32 GUI, Flutter desktop (41 chapters) |
 | [bat-ps1-dev](https://github.com/mowenQWQ/bat-ps1-dev) | Batch & PowerShell scripting vault (39 chapters) |
 | [Web-Security-Test-Rules](https://github.com/mowenQWQ/Web-Security-Test-Rules) | Authorized web security testing rules: authorize first, minimal impact, documented evidence |
+| [security-testing](https://github.com/mowenQWQ/security-testing) | Systematic pentest playbook for authorized targets: discovery, privilege escalation, stealth, reporting |
+| [web-api-security-testing](https://github.com/mowenQWQ/web-api-security-testing) | Round-based Web API security testing: 3 pre-flight checks, technique handbook, 5-step closure |
+| [site-health-diagnosis](https://github.com/mowenQWQ/site-health-diagnosis) | Layered website health diagnosis: CDN vs origin, transient vs persistent, ops-ready evidence chain |
 | [unattended-task-pitfalls](https://github.com/mowenQWQ/unattended-task-pitfalls) | Hardening for unattended agent tasks: discipline fails unattended; only code has your back |
 | [agent-mistake-patterns](https://github.com/mowenQWQ/agent-mistake-patterns) | AI-agent mistake patterns: failures come from unused knowledge, not missing ability |
 | [grounded-summaries-skill](https://github.com/mowenQWQ/grounded-summaries-skill) | Stop AI agents from fabricating summaries (born from a real incident) |
+| [fanfic-game-lore-writer](https://github.com/mowenQWQ/fanfic-game-lore-writer) | Fanfiction-writing methodology built on in-game text artifacts: canon research, character building, info-gap narration |
+| [skill-open-source-publish](https://github.com/mowenQWQ/skill-open-source-publish) | Turn task outcomes & postmortems into open-source skills: desensitization, bilingual docs, dual-platform publishing |
 
-> All six are mirrored on [Gitee](https://gitee.com/mowenqwq) with bilingual (Chinese-first) READMEs.
+> All eleven are mirrored on [Gitee](https://gitee.com/mowenqwq) with bilingual (Chinese-first) READMEs.
 
 ### 🎮 Minecraft Mods
 
