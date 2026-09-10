@@ -42,6 +42,9 @@
 - **[Bountiful-Fares-Fixed](https://github.com/mowenQWQ/Bountiful-Fares-Fixed)** — Bountiful Fares 1.20.1 狼乞食 NPE 崩溃修复构建（手动构建 / Fabric，Sinytra Connector 可跑 Forge）｜ Gitee：[Bountiful-Fares-Fixed](https://gitee.com/mowenqwq/Bountiful-Fares-Fixed)
 - **[Weather-Effect-](https://github.com/mowenQWQ/Weather-Effect-)** — 天气药水模组：晴天增益、雨天与雷暴触发随机正负效果（雷暴可一次叠加多个），无需合成、自动运行 ｜ Gitee：[weather-effect](https://gitee.com/mowenqwq/weather-effect)
 - **[tp_permission_mod](https://github.com/mowenQWQ/tp_permission_mod)** — 传送指令权限管理：管理员一键开关全服或指定玩家的 /tp，配置按世界独立保存，单机联机通用 ｜ Gitee：[tp_permission_mod](https://gitee.com/mowenqwq/tp_permission_mod)
+
+### 🛠️ 工具
+
 - **[CherryStudio-Workspace-Fixer](https://github.com/mowenQWQ/CherryStudio-Workspace-Fixer)** — Cherry Studio 数据搬迁后旧 Agent 对话报错「workspace path is outside the managed workspace root」的一站式修复：三处路径残留全覆盖（.claude.json / projects 目录名 / 数据库 agent_workspace.path），预览→自动备份→修复→复查 ｜ Gitee：[CherryStudio-Workspace-Fixer](https://gitee.com/mowenqwq/CherryStudio-Workspace-Fixer)
 
 ### 🌐 个人项目
@@ -86,6 +89,9 @@ All distilled from real projects — building the security tool itself, authoriz
 - **[Bountiful-Fares-Fixed](https://github.com/mowenQWQ/Bountiful-Fares-Fixed)** — Fixed build of Bountiful Fares 1.20.1 (wolf begging NPE crash; hand-built / Fabric, Sinytra Connector for Forge) | Gitee: [mirror](https://gitee.com/mowenqwq/Bountiful-Fares-Fixed)
 - **[Weather-Effect-](https://github.com/mowenQWQ/Weather-Effect-)** — Weather potion mod: sunny buffs, rain and thunderstorms trigger random positive or negative effects (thunderstorms can stack several at once); no crafting, fully automatic | Gitee: [weather-effect](https://gitee.com/mowenqwq/weather-effect)
 - **[tp_permission_mod](https://github.com/mowenQWQ/tp_permission_mod)** — /tp permission manager: admins can toggle teleport for the whole server or specific players; per-world config, works in both singleplayer and servers | Gitee: [tp_permission_mod](https://gitee.com/mowenqwq/tp_permission_mod)
+
+### 🛠️ Tools
+
 - **[CherryStudio-Workspace-Fixer](https://github.com/mowenQWQ/CherryStudio-Workspace-Fixer)** — One-stop fixer for "workspace path is outside the managed workspace root" on old Agent conversations after relocating Cherry Studio data: covers all three leftover locations (.claude.json / projects dir names / DB agent_workspace.path) with preview → auto backup → fix → recheck | Gitee: [CherryStudio-Workspace-Fixer](https://gitee.com/mowenqwq/CherryStudio-Workspace-Fixer)
 
 ### 🌐 Personal Project
@@ -96,9 +102,8 @@ All distilled from real projects — building the security tool itself, authoriz
 
 ## 🤖 AI 使用声明 / AI Usage Disclosure
 
-本项目在开发与维护过程中使用了 AI 编程助手（Claude / Anthropic）辅助代码编写、文档整理与问题排查；核心决策、内容审核与最终发布由维护者完成。
+本项目在开发与维护过程中使用了 AI 辅助编码、文档整理与问题排查；核心决策、内容审核与最终发布由维护者完成。
 
-This project was developed and maintained with the assistance of an AI coding assistant (Claude / Anthropic) for coding, documentation, and troubleshooting. Core decisions, content review, and final releases are made by the maintainer.
-
+This project was developed and maintained with AI assistance for coding, documentation, and troubleshooting; all core decisions, reviews, and final release are made by the maintainer.
 
 <!-- profile README · synced on Gitee (mowenqwq/mowenqwq) -->
