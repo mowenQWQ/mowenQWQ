@@ -8,11 +8,6 @@
 
 ## 中文
 
-### 🛡️ SilverFox Detector（银狐特攻）
-
-银狐木马专杀工具，Go + PowerShell 双层架构，已通过 360 软件开放平台过白。
-👉 GitHub：[SilverFox-Detector](https://github.com/mowenQWQ/SilverFox-Detector) ｜ Gitee：[silver-fox_-detector_fixed](https://gitee.com/mowenqwq/silver-fox_-detector_fixed)
-
 ### 🧰 AI Agent Skill 经验库（十五件套）
 
 全部来自真实项目实战——银狐工具开发、网站安全测试、agent 无人值守运维、同人写作、中文写作、AI 声明规范与 MC 服务器安全。每条经验都带事故现场与修复动作，不是理论清单。
@@ -45,6 +40,7 @@
 
 ### 🛠️ 工具
 
+- **[SilverFox-Detector](https://github.com/mowenQWQ/SilverFox-Detector)** — 银狐木马专杀工具（银狐特攻），Go + PowerShell 双层架构，已通过 360 软件开放平台过白 ｜ Gitee：[silver-fox_-detector_fixed](https://gitee.com/mowenqwq/silver-fox_-detector_fixed)
 - **[CherryStudio-Workspace-Fixer](https://github.com/mowenQWQ/CherryStudio-Workspace-Fixer)** — Cherry Studio 数据搬迁后旧 Agent 对话报错「workspace path is outside the managed workspace root」的一站式修复：三处路径残留全覆盖（.claude.json / projects 目录名 / 数据库 agent_workspace.path），预览→自动备份→修复→复查 ｜ Gitee：[CherryStudio-Workspace-Fixer](https://gitee.com/mowenqwq/CherryStudio-Workspace-Fixer)
 
 ### 🌐 个人项目
@@ -54,11 +50,6 @@
 ---
 
 ## English
-
-### 🛡️ SilverFox Detector
-
-A remover for the "SilverFox" trojan family. Go + PowerShell dual-layer architecture, whitelisted on the 360 Software Open Platform.
-👉 GitHub: [SilverFox-Detector](https://github.com/mowenQWQ/SilverFox-Detector) ｜ Gitee: [silver-fox_-detector_fixed](https://gitee.com/mowenqwq/silver-fox_-detector_fixed)
 
 ### 🧰 AI Agent Skill Libraries (×15)
 
@@ -92,6 +83,7 @@ All distilled from real projects — building the security tool itself, authoriz
 
 ### 🛠️ Tools
 
+- **[SilverFox-Detector](https://github.com/mowenQWQ/SilverFox-Detector)** — A remover for the "SilverFox" trojan family. Go + PowerShell dual-layer architecture, whitelisted on the 360 Software Open Platform | Gitee: [silver-fox_-detector_fixed](https://gitee.com/mowenqwq/silver-fox_-detector_fixed)
 - **[CherryStudio-Workspace-Fixer](https://github.com/mowenQWQ/CherryStudio-Workspace-Fixer)** — One-stop fixer for "workspace path is outside the managed workspace root" on old Agent conversations after relocating Cherry Studio data: covers all three leftover locations (.claude.json / projects dir names / DB agent_workspace.path) with preview → auto backup → fix → recheck | Gitee: [CherryStudio-Workspace-Fixer](https://gitee.com/mowenqwq/CherryStudio-Workspace-Fixer)
 
 ### 🌐 Personal Project
