@@ -43,6 +43,7 @@
 
 - **[SilverFox-Detector](https://github.com/mowenQWQ/SilverFox-Detector)** — 银狐木马专杀工具（银狐特攻），Go + PowerShell 双层架构，已通过 360 软件开放平台过白 ｜ Gitee：[silver-fox_-detector_fixed](https://gitee.com/mowenqwq/silver-fox_-detector_fixed)
 - **[CherryStudio-Workspace-Fixer](https://github.com/mowenQWQ/CherryStudio-Workspace-Fixer)** — v2.0.0 Cherry Studio 工具箱：① 搬迁后旧 Agent 对话报错「workspace path is outside the managed workspace root」一站式修复（三处路径残留全覆盖：.claude.json / projects 目录名 / 数据库 agent_workspace.path，预览→备份→修复→复查）；② 日志炸弹防护 log_guard（官方 #20363/#18373 修复前的超大错误日志清理兜底）；③ 统一主菜单 toolbox.bat ｜ Gitee：[CherryStudio-Workspace-Fixer](https://gitee.com/mowenqwq/CherryStudio-Workspace-Fixer)
+- **[github-cn-translator-optimized](https://github.com/mowenQWQ/github-cn-translator-optimized)** — GitHub 中文翻译扩展优化版（社区维护 fork v1.1.1）：修复 AI 翻译不生效、原型链污染等 12 项问题，性能/安全/体验全面优化；基于闭源商店版 v1.1.0 修改 ｜ Gitee：[github-cn-translator-optimized](https://gitee.com/mowenqwq/github-cn-translator-optimized)
 
 ### 🌐 个人项目
 
@@ -87,6 +88,7 @@ All distilled from real projects — building the security tool itself, authoriz
 
 - **[SilverFox-Detector](https://github.com/mowenQWQ/SilverFox-Detector)** — A remover for the "SilverFox" trojan family. Go + PowerShell dual-layer architecture, whitelisted on the 360 Software Open Platform | Gitee: [silver-fox_-detector_fixed](https://gitee.com/mowenqwq/silver-fox_-detector_fixed)
 - **[CherryStudio-Workspace-Fixer](https://github.com/mowenQWQ/CherryStudio-Workspace-Fixer)** — v2.0.0 Cherry Studio toolbox: ① one-stop fixer for "workspace path is outside the managed workspace root" on old Agent conversations after data relocation (all three locations: .claude.json / projects dir names / DB agent_workspace.path, preview → backup → fix → recheck); ② log-bomb guard log_guard (cleans oversized error logs until official #20363/#18373 is fixed); ③ unified launcher toolbox.bat | Gitee: [CherryStudio-Workspace-Fixer](https://gitee.com/mowenqwq/CherryStudio-Workspace-Fixer)
+- **[github-cn-translator-optimized](https://github.com/mowenQWQ/github-cn-translator-optimized)** — Community-optimized fork of the GitHub Chinese-translation extension (v1.1.1): fixes 12 issues including non-applying AI translations and prototype pollution, with performance/security/UX improvements; based on the closed-source store build v1.1.0 | Gitee: [github-cn-translator-optimized](https://gitee.com/mowenqwq/github-cn-translator-optimized)
 
 ### 🌐 Personal Project
 
