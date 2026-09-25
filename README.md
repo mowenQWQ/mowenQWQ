@@ -38,6 +38,7 @@
 - **[Weather-Effect-](https://github.com/mowenQWQ/Weather-Effect-)** — 天气药水模组：晴天增益、雨天与雷暴触发随机正负效果（雷暴可一次叠加多个），无需合成、自动运行 ｜ Gitee：[weather-effect](https://gitee.com/mowenqwq/weather-effect)
 - **[tp_permission_mod](https://github.com/mowenQWQ/tp_permission_mod)** — 传送指令权限管理：管理员一键开关全服或指定玩家的 /tp，配置按世界独立保存，单机联机通用 ｜ Gitee：[tp_permission_mod](https://gitee.com/mowenqwq/tp_permission_mod)
 - **[ImmersiveOptimization-DeadlockFix](https://github.com/mowenQWQ/ImmersiveOptimization-DeadlockFix)** — Immersive Optimization 1.20.1 Forge 版 ServerHangWatchdog 死锁字节码级修复（Worker 线程改只读内存强制区块，避免与主线程抢存储锁）｜ Gitee：[ImmersiveOptimization-DeadlockFix](https://gitee.com/mowenqwq/ImmersiveOptimization-DeadlockFix)
+- **[SlimefunVoid-Fixed](https://github.com/mowenQWQ/SlimefunVoid-Fixed)** — SlimefunVoid 修复版：开箱炸 ArrayIndexOutOfBoundsException（研究纸填充 nextInt(28) 越界）一行修复，GPL-3.0 继承上游 ｜ Gitee：[SlimefunVoid-Fixed](https://gitee.com/mowenqwq/SlimefunVoid-Fixed)
 
 ### 🛠️ 工具
 
@@ -84,6 +85,7 @@ All distilled from real projects — building the security tool itself, authoriz
 - **[Weather-Effect-](https://github.com/mowenQWQ/Weather-Effect-)** — Weather potion mod: sunny buffs, rain and thunderstorms trigger random positive or negative effects (thunderstorms can stack several at once); no crafting, fully automatic | Gitee: [weather-effect](https://gitee.com/mowenqwq/weather-effect)
 - **[tp_permission_mod](https://github.com/mowenQWQ/tp_permission_mod)** — /tp permission manager: admins can toggle teleport for the whole server or specific players; per-world config, works in both singleplayer and servers | Gitee: [tp_permission_mod](https://gitee.com/mowenqwq/tp_permission_mod)
 - **[ImmersiveOptimization-DeadlockFix](https://github.com/mowenQWQ/ImmersiveOptimization-DeadlockFix)** — Bytecode-level fix for the Immersive Optimization 1.20.1 Forge ServerHangWatchdog deadlock (worker thread now reads only the in-memory forced-chunk set, avoiding storage-lock contention with the main thread) | Gitee: [ImmersiveOptimization-DeadlockFix](https://gitee.com/mowenqwq/ImmersiveOptimization-DeadlockFix)
+- **[SlimefunVoid-Fixed](https://github.com/mowenQWQ/SlimefunVoid-Fixed)** — Fixed build of SlimefunVoid: one-line fix for the ArrayIndexOutOfBoundsException when opening loot chests (research-note population used nextInt(28) on 27-slot inventories), GPL-3.0 inherited from upstream | Gitee: [SlimefunVoid-Fixed](https://gitee.com/mowenqwq/SlimefunVoid-Fixed)
 
 ### 🛠️ Tools
 
