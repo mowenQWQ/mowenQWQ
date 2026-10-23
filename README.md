@@ -29,7 +29,7 @@
 | [skill-open-source-publish](https://github.com/mowenQWQ/skill-open-source-publish) | 把任务成果/事故复盘做成可开源 skill 并发布双平台：脱敏、双语、建仓、推送、验证全流程 |
 | [mc-server-plugin-security](https://github.com/mowenQWQ/mc-server-plugin-security) | 我的世界服务器插件安全经验库：AuthMe 0day、登录绕过、session 劫持、ForceOp、jar 静态检查与版本选型 |
 | [article-writing](https://github.com/mowenQWQ/article-writing) | 中文文章/软文/长文写作经验库：读者意识、事实先行、对比论证、深度优先与发布前自查清单 |
-| [ai-usage-notice](https://github.com/mowenQWQ/ai-usage-notice) | 为 AI 直接输出的成品默认添加 AI 使用说明（项目 README 开头 + 文章文末），法律依据与例外边界完整 |
+| [ai-usage-notice](https://github.com/mowenQWQ/ai-usage-notice) | 为 AI 直接输出的成品默认添加 AI 使用说明（项目介绍处 / 文章结尾，二选一），法律依据与例外边界完整 |
 | [agent-self-rollback](https://github.com/mowenQWQ/agent-self-rollback) | 为 AI agent 建立自身误操作回滚机制：三层防线（自律规则+时间戳快照+双兜底恢复）+ 可移植 rollback.ps1（snapshot/list/restore/verify） |
 | [evidence-association-pitfalls](https://github.com/mowenQWQ/evidence-association-pitfalls) | AI 关键信息关联缺失错误模式库：手握证据却不用于推理，转套外部模板（含与未调档/幻觉的区分谱系） |
 
